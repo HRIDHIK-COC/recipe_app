@@ -1,0 +1,15 @@
+#f1{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+#f1:hover{
+    color: #f0c29c;
+    font-size: 16px;
+    transition: ease-in;
+}
+#f2{
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
